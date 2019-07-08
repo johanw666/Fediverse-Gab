@@ -6,7 +6,7 @@
     android:background="@android:color/black"
     android:orientation="vertical">
 
-    <com.keylesspalace.tusky.view.ImageViewPager
+    <com.gabai.gabby.view.ImageViewPager
         android:id="@+id/viewPager"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

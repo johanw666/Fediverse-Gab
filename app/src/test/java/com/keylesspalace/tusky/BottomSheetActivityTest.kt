@@ -13,15 +13,15 @@
  * You should have received a copy of the GNU General Public License along with Tusky; if not,
  * see <http://www.gnu.org/licenses>. */
 
-package com.keylesspalace.tusky
+package com.gabai.gabby
 
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import android.text.SpannedString
 import android.widget.LinearLayout
-import com.keylesspalace.tusky.entity.Account
-import com.keylesspalace.tusky.entity.SearchResults
-import com.keylesspalace.tusky.entity.Status
-import com.keylesspalace.tusky.network.MastodonApi
+import com.gabai.gabby.entity.Account
+import com.gabai.gabby.entity.SearchResults
+import com.gabai.gabby.entity.Status
+import com.gabai.gabby.network.MastodonApi
 import okhttp3.Request
 import org.junit.Assert
 import org.junit.Before

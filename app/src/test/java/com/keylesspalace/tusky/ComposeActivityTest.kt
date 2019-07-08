@@ -14,19 +14,19 @@
  * see <http://www.gnu.org/licenses>. */
 
 
-package com.keylesspalace.tusky
+package com.gabai.gabby
 
 import android.text.SpannedString
 import android.widget.EditText
-import com.keylesspalace.tusky.db.AccountEntity
-import com.keylesspalace.tusky.db.AccountManager
-import com.keylesspalace.tusky.db.AppDatabase
-import com.keylesspalace.tusky.db.InstanceDao
-import com.keylesspalace.tusky.entity.Account
-import com.keylesspalace.tusky.entity.Emoji
-import com.keylesspalace.tusky.entity.Instance
-import com.keylesspalace.tusky.network.MastodonApi
-import com.keylesspalace.tusky.util.ThemeUtils
+import com.gabai.gabby.db.AccountEntity
+import com.gabai.gabby.db.AccountManager
+import com.gabai.gabby.db.AppDatabase
+import com.gabai.gabby.db.InstanceDao
+import com.gabai.gabby.entity.Account
+import com.gabai.gabby.entity.Emoji
+import com.gabai.gabby.entity.Instance
+import com.gabai.gabby.network.MastodonApi
+import com.gabai.gabby.util.ThemeUtils
 import okhttp3.Request
 import okhttp3.ResponseBody
 import org.junit.Assert

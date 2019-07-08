@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.keylesspalace.tusky">
+    package="com.gabai.gabby">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -78,7 +78,7 @@
             </intent-filter>
             <meta-data
                 android:name="android.service.chooser.chooser_target_service"
-                android:value="com.keylesspalace.tusky.service.AccountChooserService"
+                android:value="com.gabai.gabby.service.AccountChooserService"
                 />
         </activity>
         <activity
@@ -130,9 +130,9 @@
 
         <service
             tools:targetApi="24"
-            android:name="com.keylesspalace.tusky.service.TuskyTileService"
-            android:icon="@drawable/ic_tusky"
-            android:label="Compose Toot"
+            android:name="com.gabai.gabby.service.TuskyTileService"
+            android:icon="@drawable/splash"
+            android:label="Compose Post"
             android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
             <intent-filter>
                 <action android:name="android.service.quicksettings.action.QS_TILE" />
@@ -141,7 +141,7 @@
         <service android:name=".service.SendTootService" />
         <service
             tools:targetApi="23"
-            android:name="com.keylesspalace.tusky.service.AccountChooserService"
+            android:name="com.gabai.gabby.service.AccountChooserService"
             android:label="@string/app_name"
             android:permission="android.permission.BIND_CHOOSER_TARGET_SERVICE"
             >

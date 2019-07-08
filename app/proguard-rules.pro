@@ -64,9 +64,9 @@
     @retrofit2.http.* <methods>;
 }
 
--keep class com.keylesspalace.tusky.entity.** { *; }
+-keep class com.gabai.gabby.entity.** { *; }
 
--keep public enum com.keylesspalace.tusky.entity.*$** {
+-keep public enum com.gabai.gabby.entity.*$** {
     **[] $VALUES;
     public *;
 }

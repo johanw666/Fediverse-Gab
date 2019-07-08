@@ -131,13 +131,13 @@
     <string name="link_whats_an_instance">¿Qué es una instancia?</string>
     <string name="login_connection">Conectando…</string>
     <string name="dialog_whats_an_instance">Introduzca aquí dirección o dominio de cualquier instancia,
-        como mastodon.social, icosahedron.website, social.tchncs.de y
+        como gab.com, icosahedron.website, social.tchncs.de y
         <a href="https://instances.social">más!</a>
         \n\nSi todavia no tiene una cuenta, puede indicar el nombre de la instancia a la que quiere
         unirse y crear una cuenta allí.\n\nUna instancia es el sitio único donde su cuenta
         está alojada, pero puede comunicarse y seguir usuarios de otras instancias como si
         estuvieran en la misma.
-        \n\nPuede consultar más información en <a href="https://joinmastodon.org">joinmastodon.org</a>.
+        \n\nPuede consultar más información en <a href="https://gab.com">gab.com</a>.
     </string>
     <string name="dialog_title_finishing_media_upload">Terminando de subir multimedia</string>
     <string name="dialog_message_uploading_media">Subiendo…</string>
@@ -208,8 +208,8 @@
     <string name="notification_title_summary">%d nuevas interacciones</string>
     <string name="description_account_locked">Cuenta protegida</string>
     <string name="about_title_activity">Acerca de</string>
-    <string name="about_tusky_version">Tusky %s</string>
-    <string name="about_tusky_license">Tusky es un software libre y de código abierto.
+    <string name="about_tusky_version">Gabby %s</string>
+    <string name="about_tusky_license">Gabby es un software libre y de código abierto.
         Está licenciado bajo la licencia \"GNU General Public License Version 3\".
         Puedes leer sobre la misma en: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
     <!-- note to translators:
@@ -219,12 +219,12 @@
          * the url can be changed to link to the localized version of the license.
     -->
     <string name="about_project_site">        Sitio del proyecto:\n
-        https://tusky.app
+        https://gab.com
     </string>
     <string name="about_bug_feature_request_site">        Reporte de errores y peticiones de características:\n
-        https://github.com/tuskyapp/Tusky/issues
+        https://github.com/gabai/Gabby/issues
     </string>
-    <string name="about_tusky_account">Perfil de Tusky</string>
+    <string name="about_tusky_account">Perfil de Gabby</string>
     <string name="status_share_content">Compartir contenido</string>
     <string name="status_share_link">Compartir enlace</string>
     <string name="status_media_images">Imágenes</string>
@@ -248,7 +248,7 @@
     <string name="replying_to">Respondiendo a @%s</string>
     <string name="load_more_placeholder_text">cargar más</string>
     <string name="add_account_name">Añadir cuenta</string>
-    <string name="add_account_description">Añadir cuenta de Mastodon</string>
+    <string name="add_account_description">Añadir cuenta de Gabby</string>
     <string name="action_lists">Listas</string>
     <string name="title_lists">Listas</string>
     <string name="title_list_timeline">Cronología de lista</string>
@@ -280,13 +280,13 @@
     <string name="restart">Reiniciar</string>
     <string name="caption_systememoji">Conjunto de emoji predeterminado de su dispositivo</string>
     <string name="caption_blobmoji">Los emojis de Android 4.4 a 7.1</string>
-    <string name="caption_twemoji">Pack estándar de Emojis de Mastodon</string>
+    <string name="caption_twemoji">Pack estándar de Emojis de Gabby</string>
     <string name="download_failed">Descarga fallida</string>
     <string name="profile_badge_bot_text">Bot</string>
     <string name="account_moved_description">%1$s se trasladó a:</string>
     <string name="reblog_private">Volver a compartir</string>
     <string name="unreblog_private">Dejar de impulsar</string>
-    <string name="license_description">Tusky contiene código y recursos de los siguientes proyectos:</string>
+    <string name="license_description">Gabby contiene código y recursos de los siguientes proyectos:</string>
     <string name="license_apache_2">Licenciado bajo Apache License (texto bajo la lista)</string>
     <string name="license_cc_by_4">CC BY 4.0</string>
     <string name="license_cc_by_sa_4">CC-BY-SA 4.0</string>

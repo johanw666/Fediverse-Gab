@@ -13,9 +13,9 @@
  * You should have received a copy of the GNU General Public License along with Tusky; if not,
  * see <http://www.gnu.org/licenses>. */
 
-package com.keylesspalace.tusky
+package com.gabai.gabby
 
-import com.keylesspalace.tusky.util.ComposeTokenizer
+import com.gabai.gabby.util.ComposeTokenizer
 import org.junit.Assert
 import org.junit.Test
 import org.junit.runner.RunWith

@@ -27,14 +27,14 @@
     <string name="title_public_federated">Federated</string>
     <string name="title_direct_messages">Direct Messages</string>
     <string name="title_tab_preferences">Tabs</string>
-    <string name="title_view_thread">Toot</string>
+    <string name="title_view_thread">Post</string>
     <string name="title_tag">#%s</string>
     <string name="title_statuses">Posts</string>
     <string name="title_statuses_with_replies">With replies</string>
     <string name="title_statuses_pinned">Pinned</string>
     <string name="title_follows">Follows</string>
     <string name="title_followers">Followers</string>
-    <string name="title_favourites">Favourites</string>
+    <string name="title_favourites">Favorites</string>
     <string name="title_mutes">Muted users</string>
     <string name="title_blocks">Blocked users</string>
     <string name="title_domain_mutes">Hidden domains</string>
@@ -67,11 +67,11 @@
     <string name="action_reply">Reply</string>
     <string name="action_reblog">Boost</string>
     <string name="action_unreblog">Remove boost</string>
-    <string name="action_favourite">Favourite</string>
+    <string name="action_favourite">Favorite</string>
     <string name="action_unfavourite">Remove favourite</string>
     <string name="action_more">More</string>
     <string name="action_compose">Compose</string>
-    <string name="action_login">Login with Mastodon</string>
+    <string name="action_login">Login with Gabby</string>
     <string name="action_logout">Log Out</string>
     <string name="action_logout_confirm">Are you sure you want to log out of the account %1$s?</string>
     <string name="action_follow">Follow</string>
@@ -83,14 +83,14 @@
     <string name="action_report">Report</string>
     <string name="action_delete">Delete</string>
     <string name="action_delete_and_redraft">Delete and re-draft</string>
-    <string name="action_send">TOOT</string>
-    <string name="action_send_public">TOOT!</string>
+    <string name="action_send">POST</string>
+    <string name="action_send_public">POST!</string>
     <string name="action_retry">Retry</string>
     <string name="action_close">Close</string>
     <string name="action_view_profile">Profile</string>
     <string name="action_view_preferences">Preferences</string>
     <string name="action_view_account_preferences">Account Preferences</string>
-    <string name="action_view_favourites">Favourites</string>
+    <string name="action_view_favourites">Favorites</string>
     <string name="action_view_mutes">Muted users</string>
     <string name="action_view_blocks">Blocked users</string>
     <string name="action_view_domain_mutes">Hidden domains</string>
@@ -114,7 +114,7 @@
     <string name="action_reject">Reject</string>
     <string name="action_search">Search</string>
     <string name="action_access_saved_toot">Drafts</string>
-    <string name="action_toggle_visibility">Toot visibility</string>
+    <string name="action_toggle_visibility">Post visibility</string>
     <string name="action_content_warning">Content warning</string>
     <string name="action_emoji_keyboard">Emoji keyboard</string>
     <string name="action_add_tab">Add Tab</string>
@@ -168,13 +168,13 @@
     <string name="login_connection">Connecting…</string>
 
     <string name="dialog_whats_an_instance">The address or domain of any instance can be entered
-        here, such as mastodon.social, icosahedron.website, social.tchncs.de, and
+        here, such as gab.com, icosahedron.website, social.tchncs.de, and
         <a href="https://instances.social">more!</a>
         \n\nIf you don\'t yet have an account, you can enter the name of the instance you\'d like to
         join and create an account there.\n\nAn instance is a single place where your account is
         hosted, but you can easily communicate with and follow folks on other instances as though
         you were on the same site.
-        \n\nMore info can be found at <a href="https://joinmastodon.org">joinmastodon.org</a>.
+        \n\nMore info can be found at <a href="https://gab.com">gab.com</a>.
     </string>
     <string name="dialog_title_finishing_media_upload">Finishing Media Upload</string>
     <string name="dialog_message_uploading_media">Uploading…</string>
@@ -255,7 +255,7 @@
     <string name="notification_follow_description">Notifications about new followers</string>
     <string name="notification_boost_name">Boosts</string>
     <string name="notification_boost_description">Notifications when your toots get boosted</string>
-    <string name="notification_favourite_name">Favourites</string>
+    <string name="notification_favourite_name">Favorites</string>
     <string name="notification_favourite_description">Notifications when your toots get marked as favourite</string>
     <string name="notification_poll_name">Polls</string>
     <string name="notification_poll_description">Notifications about polls that have ended</string>
@@ -270,8 +270,8 @@
     <string name="description_account_locked">Locked Account</string>
 
     <string name="about_title_activity">About</string>
-    <string name="about_tusky_version">Tusky %s</string>
-    <string name="about_tusky_license">Tusky is free and open-source software.
+    <string name="about_tusky_version">Gabby %s</string>
+    <string name="about_tusky_license">Gabby is open-source software.
         It is licensed under the GNU General Public License Version 3.
         You can view the license here: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
     <!-- note to translators:
@@ -282,13 +282,13 @@
     -->
     <string name="about_project_site">
         Project website:\n
-        https://tusky.app
+        https://gab.com
     </string>
     <string name="about_bug_feature_request_site">
         Bug reports &amp; feature requests:\n
-        https://github.com/tuskyapp/Tusky/issues
+        https://github.com/gabai/Gabby/issues
     </string>
-    <string name="about_tusky_account">Tusky\'s Profile</string>
+    <string name="about_tusky_account">Gabby\'s Profile</string>
 
     <string name="status_share_content">Share content of toot</string>
     <string name="status_share_link">Share link to toot</string>
@@ -328,7 +328,7 @@
     <string name="filter_add_description">Phrase to filter</string>
 
     <string name="add_account_name">Add Account</string>
-    <string name="add_account_description">Add new Mastodon Account</string>
+    <string name="add_account_description">Add new Gabby Account</string>
 
     <string name="action_lists">Lists</string>
     <string name="title_lists">Lists</string>
@@ -353,9 +353,9 @@
     <string name="lock_account_label">Lock account</string>
     <string name="lock_account_label_description">Requires you to manually approve followers</string>
     <string name="compose_save_draft">Save draft?</string>
-    <string name="send_toot_notification_title">Sending Toot…</string>
+    <string name="send_toot_notification_title">Sending Post…</string>
     <string name="send_toot_notification_error_title">Error sending toot</string>
-    <string name="send_toot_notification_channel_name">Sending Toots</string>
+    <string name="send_toot_notification_channel_name">Sending Posts</string>
     <string name="send_toot_notification_cancel_title">Sending cancelled</string>
     <string name="send_toot_notification_saved_content">A copy of the toot has been saved to your drafts</string>
     <string name="action_compose_shortcut">Compose</string>
@@ -369,12 +369,12 @@
     <string name="expand_collapse_all_statuses">Expand/Collapse all statuses</string>
     <string name="action_open_toot">Open toot</string>
     <string name="restart_required">App restart required</string>
-    <string name="restart_emoji">You\'ll need to restart Tusky in order to apply these changes</string>
+    <string name="restart_emoji">You\'ll need to restart Gabby in order to apply these changes</string>
     <string name="later">Later</string>
     <string name="restart">Restart</string>
     <string name="caption_systememoji">Your device\'s default emoji set</string>
     <string name="caption_blobmoji">The Blob emojis known from Android 4.4–7.1</string>
-    <string name="caption_twemoji">Mastodon\'s standard emoji set</string>
+    <string name="caption_twemoji">Gabby\'s standard emoji set</string>
     <string name="caption_notoemoji">Google\'s current emoji set</string>
 
     <string name="download_failed">Download failed</string>
@@ -385,7 +385,7 @@
     <string name="reblog_private">Boost to original audience</string>
     <string name="unreblog_private">Unboost</string>
 
-    <string name="license_description">Tusky contains code and assets from the following open source projects:</string>
+    <string name="license_description">Gabby contains code and assets from the following open source projects:</string>
     <string name="license_apache_2">Licensed under the Apache License (copy below)</string>
     <string name="license_cc_by_4">CC-BY 4.0</string>
     <string name="license_cc_by_sa_4">CC-BY-SA 4.0</string>
@@ -403,8 +403,8 @@
     <string name="pin_action">Pin</string>
 
     <plurals name="favs">
-        <item quantity="one">&lt;b>%1$s&lt;/b> Favourite</item>
-        <item quantity="other">&lt;b>%1$s&lt;/b> Favourites</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> Favorite</item>
+        <item quantity="other">&lt;b>%1$s&lt;/b> Favorites</item>
     </plurals>
 
     <plurals name="reblogs">
@@ -413,7 +413,7 @@
     </plurals>
 
     <string name="title_reblogged_by">Boosted by</string>
-    <string name="title_favourited_by">Favourited by</string>
+    <string name="title_favourited_by">Favorited by</string>
 
     <string name="conversation_1_recipients">%1$s</string>
     <string name="conversation_2_recipients">%1$s and %2$s</string>
@@ -434,7 +434,7 @@
         Reblogged
     </string>
     <string name="description_status_favourited">
-        Favourited
+        Favorited
     </string>
     <string name="description_visiblity_public">
         Public
@@ -461,7 +461,7 @@
     <string name="notifications_apply_filter">Filter</string>
     <string name="filter_apply">Apply</string>
 
-    <string name="compose_shortcut_long_label">Compose Toot</string>
+    <string name="compose_shortcut_long_label">Compose Post</string>
     <string name="compose_shortcut_short_label">Compose</string>
 
     <string name="notification_clear_text">Are you sure you want to permanently clear all your notifications?</string>

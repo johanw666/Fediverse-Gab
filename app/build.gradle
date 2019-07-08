@@ -13,15 +13,24 @@ def getGitSha = { ->
 }
 
 android {
+    signingConfigs {
+        release {
+            storeFile file('C:\\Users\\Fosco\\Resources\\gabby.jks')
+            storePassword 'gabgab'
+            keyAlias = 'gabby'
+            keyPassword 'gabgab'
+        }
+    }
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.keylesspalace.tusky"
+        applicationId "com.gabai.gabby"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 64
         versionName "8.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
+        signingConfig signingConfigs.release
 
         kapt {
             arguments {
