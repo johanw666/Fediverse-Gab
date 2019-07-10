@@ -62,7 +62,7 @@
     <string name="action_favourite">Favori edin</string>
     <string name="action_more">Daha fazla</string>
     <string name="action_compose">Oluştur</string>
-    <string name="action_login">Gabby ile giriş yap</string>
+    <string name="action_login">Gab ile giriş yap</string>
     <string name="action_logout">Çıkış Yap</string>
     <string name="action_logout_confirm">Bu %1$s oturumu sonlandırmak istediğinizden emin misiniz?</string>
     <string name="action_follow">Takip et</string>
@@ -130,9 +130,9 @@
     <string name="label_header">Üstlük</string>
     <string name="link_whats_an_instance">Sunucu nedir?</string>
     <string name="login_connection">Bağlantı kuruluyor…</string>
-    <string name="dialog_whats_an_instance">Burada her hangi bir Gabby sunucusunun adresi
+    <string name="dialog_whats_an_instance">Burada her hangi bir Gab sunucusunun adresi
 		(gab.com, icosahedron.website, social.tchncs.de, ve
-        <a href="https://github.com/tootsuite/mastodon/blob/master/docs/Using-Gabby/List-of-Gabby-instances.md">daha fazla!</a>) girilebiliri.
+        <a href="https://github.com/tootsuite/mastodon/blob/master/docs/Using-Gab/List-of-Gab-instances.md">daha fazla!</a>) girilebiliri.
 		\n\nEğer hesabınız henüz yok ise katılmak istediğiniz sunucunun adresini girerek hesap yaratabilirsin.
 		\n\nHer bir sunucu hesaplar ağırlayan bir yer olur ancak diğer sunucularda bulunan insanlarla
 		aynı sitede olmuşcasına iletişime geçip takip edebilirsiniz.
@@ -207,8 +207,8 @@
     <string name="notification_title_summary">%d yeni etkileşim</string>
     <string name="description_account_locked">Kitli Hesap</string>
     <string name="about_title_activity">Hakkında</string>
-    <string name="about_tusky_version">Gabby %s</string>
-    <string name="about_tusky_license">Özgür ve açık kaynak yazılım Gabby.
+    <string name="about_tusky_version">Gab %s</string>
+    <string name="about_tusky_license">Özgür ve açık kaynak yazılım Gab.
         GNU Genel Kamu Lisansı sürüm 3 altında lisanslanmıştır.
         Lisansı buradan görüntüleyebilirsiniz: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
     <!-- note to translators:
@@ -221,9 +221,9 @@
         https://gab.com
     </string>
     <string name="about_bug_feature_request_site"> &amp; özellik istekleri hata raporları:\n
-        https://github.com/gabai/Gabby/issues
+        https://github.com/gabai/Gab/issues
     </string>
-    <string name="about_tusky_account">Gabby\'nin Profili</string>
+    <string name="about_tusky_account">Gab\'nin Profili</string>
     <string name="status_share_content">İletinin içeriğini paylaş</string>
     <string name="status_share_link">İletinin adresini paylaş</string>
     <string name="status_media_images">Görseller</string>
@@ -247,7 +247,7 @@
     <string name="replying_to">Yanıtlanıyor: %s</string>
     <string name="load_more_placeholder_text">daha fazla yükle</string>
     <string name="add_account_name">Hesap Ekle</string>
-    <string name="add_account_description">Yeni Gabby hesabı ekle</string>
+    <string name="add_account_description">Yeni Gab hesabı ekle</string>
     <string name="action_lists">Listeler</string>
     <string name="title_lists">Listeler</string>
     <string name="title_list_timeline">Zaman çizelgelerini listele</string>
@@ -279,13 +279,13 @@
     <string name="restart">Yeniden başlat</string>
     <string name="caption_systememoji">Cihazınızın varsayılan emoji seti</string>
     <string name="caption_blobmoji">Android 4.4-7.1\'den bilinen baloncuk emojisi</string>
-    <string name="caption_twemoji">Gabby\'un standart emoji seti</string>
+    <string name="caption_twemoji">Gab\'un standart emoji seti</string>
     <string name="download_failed">İndirme başarısız</string>
     <string name="profile_badge_bot_text">Alt Metin</string>
     <string name="account_moved_description">%1$s buraya taşındı:</string>
     <string name="reblog_private">Kendi kitlenize yükseltin</string>
     <string name="unreblog_private">Yükseltmeyi geri çek</string>
-    <string name="license_description">Gabby aşağıdakı açık kaynaklı projelerden kod ve materyal içeriyor:</string>
+    <string name="license_description">Gab aşağıdakı açık kaynaklı projelerden kod ve materyal içeriyor:</string>
     <string name="license_apache_2">Apache Lisansı altında lisanslanmıştır (kopya aşağıda)</string>
     <string name="license_cc_by_4">CC-BY 4.0</string>
     <string name="license_cc_by_sa_4">CC-BY-SA 4.0</string>

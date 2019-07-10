@@ -71,7 +71,7 @@
     <string name="action_unfavourite">Fjern favoritt</string>
     <string name="action_more">Mer</string>
     <string name="action_compose">Skriv</string>
-    <string name="action_login">Logg inn med Gabby</string>
+    <string name="action_login">Logg inn med Gab</string>
     <string name="action_logout">Logg ut</string>
     <string name="action_logout_confirm">Er du sikker på at du vil logge ut fra kontoen %1$s\?</string>
     <string name="action_follow">Følg</string>
@@ -237,10 +237,10 @@
     <string name="description_account_locked">Låst konto</string>
 
     <string name="about_title_activity">Om</string>
-    <string name="about_tusky_version">Gabby %s</string>
+    <string name="about_tusky_version">Gab %s</string>
     <string name="about_bug_feature_request_site">Rapporter feil og ønsker om funksjonalitet her: 
-\n https://github.com/gabai/Gabby/issues</string>
-    <string name="about_tusky_account">Gabbys Gabby-profil</string>
+\n https://github.com/gabai/Gab/issues</string>
+    <string name="about_tusky_account">Gabs Gab-profil</string>
 
     <string name="status_share_content">Del inneholdet i tootet</string>
     <string name="status_share_link">Del link til tootet</string>
@@ -276,7 +276,7 @@
     <string name="filter_add_description">Frase å filtere</string>
 
     <string name="add_account_name">Legg til konto</string>
-    <string name="add_account_description">Legg til ny Gabby-konto</string>
+    <string name="add_account_description">Legg til ny Gab-konto</string>
 
     <string name="action_lists">Lister</string>
     <string name="title_lists">Lister</string>
@@ -295,7 +295,7 @@
     <string name="pref_default_post_privacy">Standard synlighet for toots</string>
     <string name="notification_mention_name">Nye omtaler</string>
     <string name="notification_mention_descriptions">Varsler om nye omtaler</string>
-    <string name="about_tusky_license">Gabby er fri og åpen kildekode. Applikasjonen er lisensiert under GNU General Public License versjon 3. Du kan se lisensen her: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
+    <string name="about_tusky_license">Gab er fri og åpen kildekode. Applikasjonen er lisensiert under GNU General Public License versjon 3. Du kan se lisensen her: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
     <string name="about_project_site">Hjemmeside: 
 \n https://gab.com</string>
     <string name="abbreviated_in_years">om %dy</string>
@@ -325,7 +325,7 @@
     <string name="expand_collapse_all_statuses">Utvid/kollaps alle statuser</string>
     <string name="action_open_toot">Åpne toot</string>
     <string name="restart_required">Omstart av applikasjonen er påkrevd</string>
-    <string name="restart_emoji">Du må starte Gabby på nytt for at endringene skal bli aktive</string>
+    <string name="restart_emoji">Du må starte Gab på nytt for at endringene skal bli aktive</string>
     <string name="later">Senere</string>
     <string name="restart">Start på nytt</string>
     <string name="caption_systememoji">Din enhets standard emoji-samling</string>
@@ -339,7 +339,7 @@
     <string name="reblog_private">Boost til opprinnelig publikum</string>
     <string name="unreblog_private">Fjern boost</string>
 
-    <string name="license_description">Gabby inneholder programkode og elementer fra følgende åpen kildekode-prosjekter:</string>
+    <string name="license_description">Gab inneholder programkode og elementer fra følgende åpen kildekode-prosjekter:</string>
     <string name="license_apache_2">Lisensiert under Apache License (kopi under)</string>
     <string name="license_cc_by_4">CC-BY 4.0</string>
     <string name="license_cc_by_sa_4">CC-BY-SA 4.0</string>

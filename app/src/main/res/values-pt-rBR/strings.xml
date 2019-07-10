@@ -57,7 +57,7 @@
     <string name="action_unfavourite">Desfavoritar</string>
     <string name="action_more">Mais</string>
     <string name="action_compose">Compor</string>
-    <string name="action_login">Entrar com Gabby</string>
+    <string name="action_login">Entrar com Gab</string>
     <string name="action_logout">Sair</string>
     <string name="action_logout_confirm">Você tem certeza de que deseja sair da conta %1$s\?</string>
     <string name="action_follow">Seguir</string>
@@ -207,8 +207,8 @@
     <string name="notification_title_summary">%d novas interações</string>
     <string name="description_account_locked">Conta trancada</string>
     <string name="about_title_activity">Sobre</string>
-    <string name="about_tusky_version">Gabby %s</string>
-    <string name="about_tusky_license">Gabby é um software livre e de código aberto.
+    <string name="about_tusky_version">Gab %s</string>
+    <string name="about_tusky_license">Gab é um software livre e de código aberto.
         Ele é licenciado sob a versão 3 da Licença Pública Geral GNU.
         Você pode ler a licença aqui: https://www.gnu.org/licenses/gpl-3.0.pt-br.html</string>
     <!-- note to translators:
@@ -220,8 +220,8 @@
     <string name="about_project_site">Site do projeto:\n
             https://gab.com</string>
     <string name="about_bug_feature_request_site">Reporte bugs &amp; requisite funcionalidades:\n
-            https://github.com/gabai/Gabby/issues</string>
-    <string name="about_tusky_account">Perfil do Gabby</string>
+            https://github.com/gabai/Gab/issues</string>
+    <string name="about_tusky_account">Perfil do Gab</string>
     <string name="status_share_content">Compartilhar conteúdo do toot</string>
     <string name="status_share_link">Compartilhar link do toot</string>
     <string name="status_media_images">Imagens</string>
@@ -245,7 +245,7 @@
     <string name="replying_to">Respondendo a @%s</string>
     <string name="load_more_placeholder_text">carregar mais</string>
     <string name="add_account_name">Adicionar conta</string>
-    <string name="add_account_description">Adicionar nova conta Gabby</string>
+    <string name="add_account_description">Adicionar nova conta Gab</string>
     <string name="action_lists">Listas</string>
     <string name="title_lists">Listas</string>
     <string name="title_list_timeline">Timeline da lista</string>
@@ -271,18 +271,18 @@
     <string name="expand_collapse_all_statuses">Expandir/Ocultar todos os toots</string>
     <string name="action_open_toot">Abrir toot</string>
     <string name="restart_required">É preciso reiniciar o aplicativo</string>
-    <string name="restart_emoji">É preciso reiniciar o Gabby para aplicar essas mudanças</string>
+    <string name="restart_emoji">É preciso reiniciar o Gab para aplicar essas mudanças</string>
     <string name="later">Depois</string>
     <string name="restart">Reiniciar</string>
     <string name="caption_systememoji">Pacote de emojis padrão do seu dispositivo</string>
     <string name="caption_blobmoji">Emojis padrão do Android da versão 4.4 até 7.1</string>
-    <string name="caption_twemoji">Pacote de emojis padrão do Gabby</string>
+    <string name="caption_twemoji">Pacote de emojis padrão do Gab</string>
     <string name="download_failed">O download falhou</string>
     <string name="profile_badge_bot_text">Robô</string>
     <string name="account_moved_description">%1$s mudou-se para:</string>
     <string name="reblog_private">Dar boost para audiência original</string>
     <string name="unreblog_private">Desfazer boost</string>
-    <string name="license_description">O Gabby contém código e recursos dos seguintes projetos de código aberto:</string>
+    <string name="license_description">O Gab contém código e recursos dos seguintes projetos de código aberto:</string>
     <string name="license_apache_2">Licenciado sob a licença Apache (cópia abaixo)</string>
     <string name="profile_metadata_label">Metadados do perfil</string>
     <string name="profile_metadata_add">Adicionar</string>

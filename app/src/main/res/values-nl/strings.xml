@@ -130,7 +130,7 @@
     <string name="confirmation_unmuted">Gebruiker wordt niet langer genegeerd</string>
     <string name="status_sent">Verzonden!</string>
     <string name="status_sent_long">Reactie succesvol verzonden.</string>
-    <string name="hint_domain">Welke Gabbyserver?</string>
+    <string name="hint_domain">Welke Gabserver?</string>
     <string name="hint_compose">Wat wil je kwijt?</string>
     <string name="hint_content_warning">Waarschuwingstekst</string>
     <string name="hint_display_name">Weergavenaam</string>
@@ -140,13 +140,13 @@
     <string name="label_quick_reply">Reageren…</string>
     <string name="label_avatar">Avatar</string>
     <string name="label_header">Omslagfoto</string>
-    <string name="link_whats_an_instance">Wat is een Gabbyserver?</string>
+    <string name="link_whats_an_instance">Wat is een Gabserver?</string>
     <string name="login_connection">Aan het verbinden…</string>
-    <string name="dialog_whats_an_instance">Het adres of domein van elke Gabbyserver kan hier worden ingevoerd, zoals gab.com, mastodon.nl, octodon.social en <a href="https://instances.social">nog veel meer!</a> 
+    <string name="dialog_whats_an_instance">Het adres of domein van elke Gabserver kan hier worden ingevoerd, zoals gab.com, mastodon.nl, octodon.social en <a href="https://instances.social">nog veel meer!</a> 
 \n 
-\nWanneer je nog geen account hebt, kun je de naam van de Gabbyserver waar jij je graag wil registeren invoeren, waarna je daar een account kunt aanmaken.
+\nWanneer je nog geen account hebt, kun je de naam van de Gabserver waar jij je graag wil registeren invoeren, waarna je daar een account kunt aanmaken.
 \n 
-\nEen Gabbyserver (Engels: instance) is een computerserver waar jouw account zich bevindt (vergelijk het met een e-mailserver). Je kan eenvoudig mensen van andere servers volgen en met ze communiceren, alsof jullie met elkaar op dezelfde website zitten. 
+\nEen Gabserver (Engels: instance) is een computerserver waar jouw account zich bevindt (vergelijk het met een e-mailserver). Je kan eenvoudig mensen van andere servers volgen en met ze communiceren, alsof jullie met elkaar op dezelfde website zitten. 
 \n 
 \n Meer informatie kun je vinden op <a href="https://gab.com">gab.com</a>.</string>
     <string name="dialog_title_finishing_media_upload">Uploaden media bijna voltooid</string>
@@ -220,8 +220,8 @@
     <string name="notification_title_summary">%d nieuwe interacties</string>
     <string name="description_account_locked">Besloten account</string>
     <string name="about_title_activity">Over</string>
-    <string name="about_tusky_version">Gabby %s</string>
-    <string name="about_tusky_license">Gabby is opensource- en vrije software. De licentie valt onder de GNU Algemene Publieke Licentie versie 3. Je kunt de licentie hier bekijken: https://www.gnu.org/licenses/gpl-3.0.nl.html</string>
+    <string name="about_tusky_version">Gab %s</string>
+    <string name="about_tusky_license">Gab is opensource- en vrije software. De licentie valt onder de GNU Algemene Publieke Licentie versie 3. Je kunt de licentie hier bekijken: https://www.gnu.org/licenses/gpl-3.0.nl.html</string>
     <!-- note to translators:
          * you should think of “free” as in “free speech,” not as in “free beer”.
            We sometimes call it “libre software,” borrowing the French or Spanish word for “free” as in freedom,
@@ -231,8 +231,8 @@
     <string name="about_project_site">Projectwebsite:\n
                     https://gab.com</string>
     <string name="about_bug_feature_request_site">Foutmeldingen &amp; nieuwe functies aanvragen:\n
-                    https://github.com/gabai/Gabby/issues</string>
-    <string name="about_tusky_account">Gabby\'s profiel</string>
+                    https://github.com/gabai/Gab/issues</string>
+    <string name="about_tusky_account">Gab\'s profiel</string>
     <string name="status_share_content">Deel de inhoud van de toot</string>
     <string name="status_share_link">Deel de link van de toot</string>
     <string name="status_media_images">Afbeeldingen</string>
@@ -256,7 +256,7 @@
     <string name="replying_to">Aan het reageren op @%s</string>
     <string name="load_more_placeholder_text">meer laden</string>
     <string name="add_account_name">Account toevoegen</string>
-    <string name="add_account_description">Een nieuw Gabbyaccount toevoegen</string>
+    <string name="add_account_description">Een nieuw Gabaccount toevoegen</string>
     <string name="action_lists">Lijsten</string>
     <string name="title_lists">Lijsten</string>
     <string name="title_list_timeline">Tijdlijn lijst</string>
@@ -283,18 +283,18 @@
     <string name="expand_collapse_all_statuses">Alle toots in- of uitklappen</string>
     <string name="action_open_toot">Post openen</string>
     <string name="restart_required">Herstarten app vereist</string>
-    <string name="restart_emoji">Je moet Gabby herstarten om deze veranderingen te kunnen doorvoeren</string>
+    <string name="restart_emoji">Je moet Gab herstarten om deze veranderingen te kunnen doorvoeren</string>
     <string name="later">Later</string>
     <string name="restart">Herstarten</string>
     <string name="caption_systememoji">Standaard emojiset van jouw apparaat</string>
     <string name="caption_blobmoji">De Blob-emojis van Android 4.4–7.1</string>
-    <string name="caption_twemoji">Standaard emojiset van Gabby</string>
+    <string name="caption_twemoji">Standaard emojiset van Gab</string>
     <string name="download_failed">Downloaden mislukt</string>
     <string name="profile_badge_bot_text">Bot</string>
     <string name="account_moved_description">%1$s is verhuisd naar:</string>
     <string name="reblog_private">Boost naar oorspronkelijke ontvangers</string>
     <string name="unreblog_private">Niet langer boosten</string>
-    <string name="license_description">Gabby bevat broncode en onderdelen van de volgende opensourceprojecten:</string>
+    <string name="license_description">Gab bevat broncode en onderdelen van de volgende opensourceprojecten:</string>
     <string name="license_apache_2">Gelicenseerd onder de Apache-licentie (kopie hieronder)</string>
     <string name="license_cc_by_4">CC-BY 4.0</string>
     <string name="license_cc_by_sa_4">CC-BY-SA 4.0</string>

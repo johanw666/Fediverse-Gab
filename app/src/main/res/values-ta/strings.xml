@@ -49,7 +49,7 @@
     <string name="action_favourite">பிடித்தவை</string>
     <string name="action_more">மேலும்</string>
     <string name="action_compose">எழுது</string>
-    <string name="action_login">Gabby மூலம்  உள்நுழைய</string>
+    <string name="action_login">Gab மூலம்  உள்நுழைய</string>
     <string name="action_logout">வெளியேறு</string>
     <string name="action_logout_confirm">நீங்கள்  %1$s கணக்கிலிருந்து வெளியேற விரும்புகிறீர்களா?</string>
     <string name="action_follow">பின்பற்று</string>
@@ -175,8 +175,8 @@
     <string name="notification_title_summary">%d புதிய ஊடாடுதல்</string>
     <string name="description_account_locked">கணக்கு மூடப்பட்டது</string>
     <string name="about_title_activity">பற்றி</string>
-    <string name="about_tusky_version">Gabby(டஸ்கி) %s</string>
-    <string name="about_tusky_license">Gabby ஒரு கட்டற்ற மற்றும் திறந்த மூல மென்பொருள். இதன் உரிமம் GNU General Public License(பொது உரிமம்) பதிப்பு 3 -ன் கீழ் உள்ளது. நீங்கள் உரிமம் பற்றி காண: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
+    <string name="about_tusky_version">Gab(டஸ்கி) %s</string>
+    <string name="about_tusky_license">Gab ஒரு கட்டற்ற மற்றும் திறந்த மூல மென்பொருள். இதன் உரிமம் GNU General Public License(பொது உரிமம்) பதிப்பு 3 -ன் கீழ் உள்ளது. நீங்கள் உரிமம் பற்றி காண: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
     <!-- note to translators:
          * you should think of “free” as in “free speech,” not as in “free beer”.
            We sometimes call it “libre software,” borrowing the French or Spanish word for “free” as in freedom,
@@ -187,9 +187,9 @@
         https://gab.com
     </string>
     <string name="about_bug_feature_request_site">        	பிழை அறிக்கைகள் &amp; அம்ச கோரிக்கைகள்:\n
-        https://github.com/gabai/Gabby/issues
+        https://github.com/gabai/Gab/issues
     </string>
-    <string name="about_tusky_account">Gabby-ன் கணக்கு</string>
+    <string name="about_tusky_account">Gab-ன் கணக்கு</string>
     <string name="status_share_content">Post உள்ளடக்கத்தைப் பகிர்</string>
     <string name="status_share_link">Post இணைப்பைப் பகிர்</string>
     <string name="status_media_images">படங்கள்</string>
@@ -213,7 +213,7 @@
     <string name="replying_to">\@%s -க்கு பதிலளி</string>
     <string name="load_more_placeholder_text">மேலும் காட்டு…</string>
     <string name="add_account_name">கணக்கை சேர்க்க</string>
-    <string name="add_account_description">புதிய Gabby கணக்கைச் சேர்க்க</string>
+    <string name="add_account_description">புதிய Gab கணக்கைச் சேர்க்க</string>
     <string name="action_lists">பட்டியல்கள்</string>
     <string name="title_lists">பட்டியல்கள்</string>
     <string name="title_list_timeline">காலவரிசை பட்டியல்</string>
@@ -244,13 +244,13 @@
     <string name="restart">மறுதொடக்க</string>
     <string name="caption_systememoji">தங்களின் வழக்கமான emoji பொருத்தப்பட்டது</string>
     <string name="caption_blobmoji">Android 4.4–7.1-லிருந்தே Blob emojis பயன்படுத்தபடுகிறது</string>
-    <string name="caption_twemoji">Gabby-னின் வழக்கமான emoji set</string>
+    <string name="caption_twemoji">Gab-னின் வழக்கமான emoji set</string>
     <string name="download_failed">பதிவிறக்கம் தோல்வியுற்றது</string>
     <string name="profile_badge_bot_text">இயலி</string>
     <string name="account_moved_description">%1$s கணக்கு நகர்த்தபட்டது இதற்க்கு:</string>
     <string name="reblog_private">அசலான பார்வையாளர்களுக்கு மட்டும் மேலேற்று</string>
     <string name="unreblog_private">மேலேற்றத்தை தவிர்</string>
-    <string name="license_description">Gabby கொண்டுள்ள நிரல்  மற்றும் துணுக்குகள் பின்வரும் திறந்த மூல திட்டங்கள்:</string>
+    <string name="license_description">Gab கொண்டுள்ள நிரல்  மற்றும் துணுக்குகள் பின்வரும் திறந்த மூல திட்டங்கள்:</string>
     <string name="license_apache_2">Apache License (copy below)-ன் கீழ் உரிமமளிக்கப்பட்டுள்ளது</string>
     <string name="profile_metadata_label">சுயவிவர  மேனிலை தரவு</string>
     <string name="profile_metadata_add">தகவலை இணைக்க</string>

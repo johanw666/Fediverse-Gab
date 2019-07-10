@@ -26,8 +26,8 @@ android {
         applicationId "com.gabai.gabby"
         minSdkVersion 21
         targetSdkVersion 28
-        versionCode 64
-        versionName "8.0"
+        versionCode 65
+        versionName "8.0.1"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
         signingConfig signingConfigs.release

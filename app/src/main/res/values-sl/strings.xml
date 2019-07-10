@@ -69,7 +69,7 @@
     <string name="action_favourite">Vzljubi</string>
     <string name="action_more">Več</string>
     <string name="action_compose">Sestavi</string>
-    <string name="action_login">Prijavite se z Gabbyom</string>
+    <string name="action_login">Prijavite se z Gabom</string>
     <string name="action_logout">Odjava</string>
     <string name="action_logout_confirm">Ali ste prepričani, da se želite odjaviti iz računa %1$s\?</string>
     <string name="action_follow">Sledi</string>
@@ -240,13 +240,13 @@
     <string name="description_account_locked">Zaklenjen račun</string>
 
     <string name="about_title_activity">O aplikaciji</string>
-    <string name="about_tusky_version">Gabby %s</string>
-    <string name="about_tusky_license">Gabby je prosta in odprtokodna programska oprema. Licencirana je pod licenco GNU General Public License različice 3. Licenco si lahko ogledate tukaj: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
+    <string name="about_tusky_version">Gab %s</string>
+    <string name="about_tusky_license">Gab je prosta in odprtokodna programska oprema. Licencirana je pod licenco GNU General Public License različice 3. Licenco si lahko ogledate tukaj: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
     <string name="about_project_site">Spletna stran projekta:
 \nhttps://gab.com</string>
     <string name="about_bug_feature_request_site">Poročila o napakah in želje za nove funkcije:
-\nhttps://github.com/gabai/Gabby/issues</string>
-    <string name="about_tusky_account">Profil Gabby</string>
+\nhttps://github.com/gabai/Gab/issues</string>
+    <string name="about_tusky_account">Profil Gab</string>
 
     <string name="status_share_content">Deli vsebino tuta</string>
     <string name="status_share_link">Deli povezavo do tuta</string>
@@ -283,7 +283,7 @@
     <string name="filter_add_description">Filtriraj frazo</string>
 
     <string name="add_account_name">Dodaj račun</string>
-    <string name="add_account_description">Dodaj nov Gabby račun</string>
+    <string name="add_account_description">Dodaj nov Gab račun</string>
 
     <string name="action_lists">Seznami</string>
     <string name="title_lists">Seznami</string>
@@ -325,12 +325,12 @@
     <string name="expand_collapse_all_statuses">Razširi/Strni vse statuse</string>
     <string name="action_open_toot">Odpri tut</string>
     <string name="restart_required">Potreben je ponovni zagon aplikacije</string>
-    <string name="restart_emoji">Če želite uveljaviti te spremembe, morate znova zagnati Gabby</string>
+    <string name="restart_emoji">Če želite uveljaviti te spremembe, morate znova zagnati Gab</string>
     <string name="later">Kasneje</string>
     <string name="restart">Znova zaženi</string>
     <string name="caption_systememoji">"Privzeti komplet emotikonov vaše naprave "</string>
     <string name="caption_blobmoji">Blob emotikoni so znani od Android 4.4-7.1</string>
-    <string name="caption_twemoji">Gabbyov privzeti komplet emotikonov</string>
+    <string name="caption_twemoji">Gabov privzeti komplet emotikonov</string>
     <string name="download_failed">Prenos ni uspel</string>
 
     <string name="profile_badge_bot_text">Robot</string>
@@ -339,7 +339,7 @@
     <string name="reblog_private">Spodbudi izvirnemu občinstvu</string>
     <string name="unreblog_private">Prekini spodbudo</string>
 
-    <string name="license_description">Gabby vsebuje kodo in sredstva iz naslednjih odprtokodnih projektov:</string>
+    <string name="license_description">Gab vsebuje kodo in sredstva iz naslednjih odprtokodnih projektov:</string>
     <string name="license_apache_2">Licencirano pod licenco Apache (spodaj)</string>
     <string name="license_cc_by_4">CC-BY 4.0</string>
     <string name="license_cc_by_sa_4">CC-BY-SA 4.0</string>

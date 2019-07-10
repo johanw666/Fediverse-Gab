@@ -71,6 +71,8 @@ class LoginActivity : BaseActivity(), Injectable {
             clientSecret = savedInstanceState.getString(CLIENT_SECRET)
         }
 
+        domainEditText.setText("gab.com")
+
         preferences = getSharedPreferences(
                 getString(R.string.preferences_file_key), Context.MODE_PRIVATE)
 
