@@ -54,6 +54,19 @@
                     tools:text="@string/about_tusky_license" />
 
                 <TextView
+                    android:id="@+id/aboutLicenseInfoTextView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="24dp"
+                    android:lineSpacingMultiplier="1.2"
+                    android:paddingStart="@dimen/text_content_margin"
+                    android:paddingEnd="@dimen/text_content_margin"
+                    android:textAlignment="center"
+                    android:textIsSelectable="true"
+                    android:textSize="16sp"
+                    tools:text="Gab is a modification of Tusky created on 7/7/2019.\n You can find the original project here: https://github.com/tuskyapp/Tusky" />
+
+                <TextView
                     android:id="@+id/aboutWebsiteInfoTextView"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"

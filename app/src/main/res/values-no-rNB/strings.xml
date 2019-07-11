@@ -239,7 +239,7 @@
     <string name="about_title_activity">Om</string>
     <string name="about_tusky_version">Gab %s</string>
     <string name="about_bug_feature_request_site">Rapporter feil og ønsker om funksjonalitet her: 
-\n https://github.com/gabai/Gab/issues</string>
+\n https://github.com/far-ahead/Fediverse/issues</string>
     <string name="about_tusky_account">Gabs Gab-profil</string>
 
     <string name="status_share_content">Del inneholdet i tootet</string>
