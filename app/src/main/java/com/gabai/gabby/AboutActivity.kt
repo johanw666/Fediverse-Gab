@@ -33,6 +33,7 @@ class AboutActivity : BottomSheetActivity(), Injectable {
 
         aboutLicenseInfoTextView.setClickableTextWithoutUnderlines(R.string.about_tusky_license)
         aboutWebsiteInfoTextView.setClickableTextWithoutUnderlines(R.string.about_project_site)
+        aboutLicenseInfo2TextView.setClickableTextWithoutUnderlines(R.string.about_tusky_license2)
 
         aboutLicensesButton.setOnClickListener {
             startActivityWithSlideInAnimation(Intent(this, LicenseActivity::class.java))

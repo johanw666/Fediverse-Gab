@@ -3,6 +3,8 @@
     <string name="app_name" translatable="false">Gab</string>
     <string name="app_website" translatable="false">https://gab.com</string>
 
+    <string name="about_tusky_license2" translatable="false">Gab is a modification of Tusky created on 7/7/2019.\n You can find the original project here: https://github.com/tuskyapp/Tusky</string>
+
     <string name="oauth_scheme" translatable="false">oauth2redirect</string>
     <string name="preferences_file_key" translatable="false">com.gabai.gabby.PREFERENCES</string>
 
