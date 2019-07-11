@@ -13,14 +13,6 @@ def getGitSha = { ->
 }
 
 android {
-    signingConfigs {
-        release {
-            storeFile file('C:\\Users\\Fosco\\Resources\\gabby.jks')
-            storePassword 'gabgab'
-            keyAlias = 'gabby'
-            keyPassword 'gabgab'
-        }
-    }
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.gabai.gabby"
@@ -30,7 +22,10 @@ android {
         versionName "8.0.1"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
-        signingConfig signingConfigs.release
+
+        ndk {
+            abiFilters 'armeabi-v7a', 'arm64-v8a', 'x86', 'x86_64'
+        }
 
         kapt {
             arguments {
