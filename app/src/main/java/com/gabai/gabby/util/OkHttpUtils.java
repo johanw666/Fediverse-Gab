@@ -66,16 +66,17 @@ public class OkHttpUtils {
     }
 
     /**
-     * Add a custom User-Agent that contains Tusky & Android Version to all requests
+     * JW: Change User agent from Tusky to Gab according to https://github.com/far-ahead/Fediverse/pull/1
+     * Add a custom User-Agent that contains Gab & Android Version to all requests
      * Example:
-     * User-Agent: Tusky/1.1.2 Android/5.0.2
+     * User-Agent: Gab/1.1.2 Android/5.0.2
      */
     @NonNull
     private static Interceptor getUserAgentInterceptor() {
         return chain -> {
             Request originalRequest = chain.request();
             Request requestWithUserAgent = originalRequest.newBuilder()
-                    .header("User-Agent", "Tusky/"+ BuildConfig.VERSION_NAME+" Android/"+Build.VERSION.RELEASE)
+                    .header("User-Agent", "Gab/"+ BuildConfig.VERSION_NAME+" Android/"+Build.VERSION.RELEASE)
                     .build();
             return chain.proceed(requestWithUserAgent);
         };
