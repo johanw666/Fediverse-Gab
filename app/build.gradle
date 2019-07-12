@@ -15,11 +15,11 @@ def getGitSha = { ->
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.keylesspalace.tusky"
+        applicationId "com.gabai.gabby"
         minSdkVersion 21
         targetSdkVersion 28
-        versionCode 64
-        versionName "8.0"
+        versionCode 66
+        versionName "8.0.2"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
 

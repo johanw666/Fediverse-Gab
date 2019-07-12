@@ -140,13 +140,13 @@
     <string name="label_header">رأس الصفحة</string>
     <string name="link_whats_an_instance">ماذا نعني بمثيل الخادم ؟</string>
     <string name="login_connection">الإتصال جارٍ…</string>
-    <string name="dialog_whats_an_instance">بإمكانك إدخال عنوان أي مثيل خادوم ماستدون هنا. على سبيل المثال mastodon.social أو icosahedron.website أو social.tchncs.de أوالإطلاع على <a href="https://instances.social">لاكتشاف المزيد !</a> 
+    <string name="dialog_whats_an_instance">بإمكانك إدخال عنوان أي مثيل خادوم ماستدون هنا. على سبيل المثال gab.com أو icosahedron.website أو social.tchncs.de أوالإطلاع على <a href="https://instances.social">لاكتشاف المزيد !</a> 
 \n 
 \n إن كنت لا تملك حسابا بإمكانك إدخال اسم مثيل خادوم تريد الانضمام إليه قصد إنشاء حسابك عليه.
 \n 
 \n نعني بمثيل الخادوم المكان الذي استُضِيف فيه حسابك و يمكنك التواصل مع أصدقائك و متابعيك و كأنكم على موقع واحد و ذلك حتى و إن كانت حساباتهم مُستضافة على مثيلات خوادم أخرى. 
 \n 
-\n للمزيد مِن التفاصيل إطّلع على <a href="https://joinmastodon.org">joinmastodon.org</a>. </string>
+\n للمزيد مِن التفاصيل إطّلع على <a href="https://gab.com">gab.com</a>. </string>
     <string name="dialog_title_finishing_media_upload">تتمة رفع الوسائط</string>
     <string name="dialog_message_uploading_media">الإرسال جارٍ…</string>
     <string name="dialog_download_image">تنزيل</string>
@@ -228,9 +228,9 @@
          * the url can be changed to link to the localized version of the license.
     -->
     <string name="about_project_site">موقع المشروع :\n
-                   https://tusky.app</string>
+                   https://gab.com</string>
     <string name="about_bug_feature_request_site">تقارير الأخطاء و طلبات التحسينات على  :\n
-                   https://github.com/tuskyapp/Tusky/issues</string>
+                   https://github.com/far-ahead/Fediverse/issues</string>
     <string name="about_tusky_account">الملف الشخصي لتوسكي</string>
     <string name="status_share_content">شارك محتوى التبويق</string>
     <string name="status_share_link">شارك الرابط إلى التبويق</string>

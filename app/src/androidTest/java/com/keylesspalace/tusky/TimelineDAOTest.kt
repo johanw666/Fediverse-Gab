@@ -1,11 +1,11 @@
-package com.keylesspalace.tusky
+package com.gabai.gabby
 
 import androidx.room.Room
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
-import com.keylesspalace.tusky.db.*
-import com.keylesspalace.tusky.entity.Status
-import com.keylesspalace.tusky.repository.TimelineRepository
+import com.gabai.gabby.db.*
+import com.gabai.gabby.entity.Status
+import com.gabai.gabby.repository.TimelineRepository
 import org.junit.After
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNull

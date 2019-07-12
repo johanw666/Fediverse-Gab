@@ -119,7 +119,7 @@
 
             </LinearLayout>
 
-            <com.keylesspalace.tusky.view.EditTextTyped
+            <com.gabai.gabby.view.EditTextTyped
                 android:id="@+id/composeEditField"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -208,7 +208,7 @@
         app:behavior_peekHeight="0dp"
         app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior" />
 
-    <com.keylesspalace.tusky.view.ComposeOptionsView
+    <com.gabai.gabby.view.ComposeOptionsView
         android:id="@+id/composeOptionsBottomSheet"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -303,7 +303,7 @@
             android:textSize="?attr/status_text_medium"
             tools:text="500" />
 
-        <com.keylesspalace.tusky.view.TootButton
+        <com.gabai.gabby.view.TootButton
             android:id="@+id/composeTootButton"
             style="@style/TuskyButton"
             android:layout_width="@dimen/toot_button_width"

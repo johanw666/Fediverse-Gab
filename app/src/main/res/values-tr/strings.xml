@@ -19,7 +19,7 @@
     <string name="error_media_upload_image_or_video">Aynı iletiye kem video hem resim eklenemez.</string>
     <string name="error_media_upload_sending">Yükleme başarsız.</string>
     <string name="error_report_too_few_statuses">Her bildirme en azından bir iletiyi işaret etmeli.</string>
-    <string name="error_sender_account_gone">Toot gönderilirken hata oluştu.</string>
+    <string name="error_sender_account_gone">Post gönderilirken hata oluştu.</string>
     <string name="title_home">Ana sayfa</string>
     <string name="title_notifications">Bildirimler</string>
     <string name="title_public_local">Yerel</string>
@@ -62,7 +62,7 @@
     <string name="action_favourite">Favori edin</string>
     <string name="action_more">Daha fazla</string>
     <string name="action_compose">Oluştur</string>
-    <string name="action_login">Mastodon ile giriş yap</string>
+    <string name="action_login">Gab ile giriş yap</string>
     <string name="action_logout">Çıkış Yap</string>
     <string name="action_logout_confirm">Bu %1$s oturumu sonlandırmak istediğinizden emin misiniz?</string>
     <string name="action_follow">Takip et</string>
@@ -102,7 +102,7 @@
     <string name="action_reject">Reddet</string>
     <string name="action_search">Ara</string>
     <string name="action_access_saved_toot">Taslaklar</string>
-    <string name="action_toggle_visibility">Toot görünürlüğü</string>
+    <string name="action_toggle_visibility">Post görünürlüğü</string>
     <string name="action_content_warning">İçerik uyarısı</string>
     <string name="action_emoji_keyboard">Emoji klavye</string>
     <string name="action_add_tab">Sekme Ekle</string>
@@ -130,13 +130,13 @@
     <string name="label_header">Üstlük</string>
     <string name="link_whats_an_instance">Sunucu nedir?</string>
     <string name="login_connection">Bağlantı kuruluyor…</string>
-    <string name="dialog_whats_an_instance">Burada her hangi bir Mastodon sunucusunun adresi
-		(mastodon.social, icosahedron.website, social.tchncs.de, ve
-        <a href="https://github.com/tootsuite/mastodon/blob/master/docs/Using-Mastodon/List-of-Mastodon-instances.md">daha fazla!</a>) girilebiliri.
+    <string name="dialog_whats_an_instance">Burada her hangi bir Gab sunucusunun adresi
+		(gab.com, icosahedron.website, social.tchncs.de, ve
+        <a href="https://github.com/tootsuite/mastodon/blob/master/docs/Using-Gab/List-of-Gab-instances.md">daha fazla!</a>) girilebiliri.
 		\n\nEğer hesabınız henüz yok ise katılmak istediğiniz sunucunun adresini girerek hesap yaratabilirsin.
 		\n\nHer bir sunucu hesaplar ağırlayan bir yer olur ancak diğer sunucularda bulunan insanlarla
 		aynı sitede olmuşcasına iletişime geçip takip edebilirsiniz.
-		\n\nDaha fazla bilgi için <a href="https://mastodon.social/about">mastodon.social</a>.
+		\n\nDaha fazla bilgi için <a href="https://gab.com/about">gab.com</a>.
     </string>
     <string name="dialog_title_finishing_media_upload">Medya Yükleme Bittiriliyor</string>
     <string name="dialog_message_uploading_media">Yükleniyor…</string>
@@ -197,9 +197,9 @@
     <string name="notification_follow_name">Yeni Takipçiler</string>
     <string name="notification_follow_description">Yeni takipçiler hakkında bildirim</string>
     <string name="notification_boost_name">Yükseltilenler</string>
-    <string name="notification_boost_description">Tootların yükseltildiğinde bildirimler</string>
+    <string name="notification_boost_description">Postların yükseltildiğinde bildirimler</string>
     <string name="notification_favourite_name">Favoriler</string>
-    <string name="notification_favourite_description">Tootların favori olarak işaretlendiğinde</string>
+    <string name="notification_favourite_description">Postların favori olarak işaretlendiğinde</string>
     <string name="notification_mention_format">%s senden bahsetti</string>
     <string name="notification_summary_large">%1$s, %2$s, %3$s ve %4$d daha</string>
     <string name="notification_summary_medium">%1$s, %2$s ve %3$s</string>
@@ -207,8 +207,8 @@
     <string name="notification_title_summary">%d yeni etkileşim</string>
     <string name="description_account_locked">Kitli Hesap</string>
     <string name="about_title_activity">Hakkında</string>
-    <string name="about_tusky_version">Tusky %s</string>
-    <string name="about_tusky_license">Özgür ve açık kaynak yazılım Tusky.
+    <string name="about_tusky_version">Gab %s</string>
+    <string name="about_tusky_license">Özgür ve açık kaynak yazılım Gab.
         GNU Genel Kamu Lisansı sürüm 3 altında lisanslanmıştır.
         Lisansı buradan görüntüleyebilirsiniz: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
     <!-- note to translators:
@@ -218,12 +218,12 @@
          * the url can be changed to link to the localized version of the license.
     -->
     <string name="about_project_site">        Proje Web sitesi:\n
-        https://tusky.app
+        https://gab.com
     </string>
     <string name="about_bug_feature_request_site"> &amp; özellik istekleri hata raporları:\n
-        https://github.com/tuskyapp/Tusky/issues
+        https://github.com/far-ahead/Fediverse/issues
     </string>
-    <string name="about_tusky_account">Tusky\'nin Profili</string>
+    <string name="about_tusky_account">Gab\'nin Profili</string>
     <string name="status_share_content">İletinin içeriğini paylaş</string>
     <string name="status_share_link">İletinin adresini paylaş</string>
     <string name="status_media_images">Görseller</string>
@@ -247,7 +247,7 @@
     <string name="replying_to">Yanıtlanıyor: %s</string>
     <string name="load_more_placeholder_text">daha fazla yükle</string>
     <string name="add_account_name">Hesap Ekle</string>
-    <string name="add_account_description">Yeni Mastodon hesabı ekle</string>
+    <string name="add_account_description">Yeni Gab hesabı ekle</string>
     <string name="action_lists">Listeler</string>
     <string name="title_lists">Listeler</string>
     <string name="title_list_timeline">Zaman çizelgelerini listele</string>
@@ -259,11 +259,11 @@
     <string name="lock_account_label">Hesabı Kilitle</string>
     <string name="lock_account_label_description">Manuel olarak takipçi onayla</string>
     <string name="compose_save_draft">Taslaklara kaydet?</string>
-    <string name="send_toot_notification_title">Toot gönderiliyor…</string>
-    <string name="send_toot_notification_error_title">Toot gönderilirken hata oluştu</string>
-    <string name="send_toot_notification_channel_name">Toot gönderiliyor</string>
+    <string name="send_toot_notification_title">Post gönderiliyor…</string>
+    <string name="send_toot_notification_error_title">Post gönderilirken hata oluştu</string>
+    <string name="send_toot_notification_channel_name">Post gönderiliyor</string>
     <string name="send_toot_notification_cancel_title">Gönderme iptal edildi</string>
-    <string name="send_toot_notification_saved_content">Toot\'un bir kopyası taslaklara kaydedildi</string>
+    <string name="send_toot_notification_saved_content">Post\'un bir kopyası taslaklara kaydedildi</string>
     <string name="action_compose_shortcut">Oluştur</string>
     <string name="error_no_custom_emojis">Sunucunuzun %s özel emoji seti yok</string>
     <string name="copy_to_clipboard_success">Panoya kopyalandı</string>
@@ -272,20 +272,20 @@
     <string name="download_fonts">Emoji setini kullanabilmek için indirmeniz gerekli</string>
     <string name="performing_lookup_title">Araştırılıyor…</string>
     <string name="expand_collapse_all_statuses">Tüm durumları Genişlet/Küçült</string>
-    <string name="action_open_toot">Toot aç</string>
+    <string name="action_open_toot">Post aç</string>
     <string name="restart_required">Uygulamayı yeniden başlatmanız lazım</string>
     <string name="restart_emoji">Değişikliklerin uygulanabilmesi için uygulama yeniden başlatılmalı</string>
     <string name="later">Daha sonra</string>
     <string name="restart">Yeniden başlat</string>
     <string name="caption_systememoji">Cihazınızın varsayılan emoji seti</string>
     <string name="caption_blobmoji">Android 4.4-7.1\'den bilinen baloncuk emojisi</string>
-    <string name="caption_twemoji">Mastodon\'un standart emoji seti</string>
+    <string name="caption_twemoji">Gab\'un standart emoji seti</string>
     <string name="download_failed">İndirme başarısız</string>
     <string name="profile_badge_bot_text">Alt Metin</string>
     <string name="account_moved_description">%1$s buraya taşındı:</string>
     <string name="reblog_private">Kendi kitlenize yükseltin</string>
     <string name="unreblog_private">Yükseltmeyi geri çek</string>
-    <string name="license_description">Tusky aşağıdakı açık kaynaklı projelerden kod ve materyal içeriyor:</string>
+    <string name="license_description">Gab aşağıdakı açık kaynaklı projelerden kod ve materyal içeriyor:</string>
     <string name="license_apache_2">Apache Lisansı altında lisanslanmıştır (kopya aşağıda)</string>
     <string name="license_cc_by_4">CC-BY 4.0</string>
     <string name="license_cc_by_sa_4">CC-BY-SA 4.0</string>

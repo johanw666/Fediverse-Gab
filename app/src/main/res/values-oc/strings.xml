@@ -54,7 +54,7 @@
     <string name="action_favourite">Aimar</string>
     <string name="action_more">Mai</string>
     <string name="action_compose">Redactar</string>
-    <string name="action_login">Començar la session amb Mastodon</string>
+    <string name="action_login">Començar la session amb Gab</string>
     <string name="action_logout">Tampar la session</string>
     <string name="action_logout_confirm">Volètz vertadièrament vos desconnectar del compte %1$s ?</string>
     <string name="action_follow">Seguir</string>
@@ -118,11 +118,11 @@
     <string name="link_whats_an_instance">Que es una instància ?</string>
     <string name="login_connection">Connexion…</string>
     <string name="dialog_whats_an_instance">Aquí podètz picar l\'adreça o domini de quina que siá instància,
-        coma mastodont.cat, mastodon.social, icosahedron.website o
+        coma mastodont.cat, gab.com, icosahedron.website o
         <a href="https://instances.social">fòrca mai !</a>
         \n\nSi encara non avètz cap de compte, podètz picar lo nom de l’instància ont vos agradariá
         anar e crear un compte enlà.\n\n
-        \n\nAvètz mas d’informacins a <a href="https://joinmastodon.org">joinmastodon.org</a>.
+        \n\nAvètz mas d’informacins a <a href="https://gab.com">gab.com</a>.
     </string>
     <string name="dialog_title_finishing_media_upload">Finalizacion del mandadís del mèdia</string>
     <string name="dialog_message_uploading_media">Mandadís…</string>
@@ -189,7 +189,7 @@
     <string name="notification_title_summary">%d interaccions nòvas</string>
     <string name="description_account_locked">Compte blocat</string>
     <string name="about_title_activity">A prepaus</string>
-    <string name="about_tusky_license">Tusky es programa gratuït, liure e de còdi dobèrt.
+    <string name="about_tusky_license">Gab es programa gratuït, liure e de còdi dobèrt.
         Es publicat jols tèrms de la licéncia publica generala GNU version 3.
         Podeu trobar les llicència aquí: https://www.gnu.org/licenses/gpl-3.0.ca.html</string>
     <!-- note to translators:
@@ -199,12 +199,12 @@
          * the url can be changed to link to the localized version of the license.
     -->
     <string name="about_project_site">        Site web del projècte :\n
-        https://tusky.app
+        https://gab.com
     </string>
     <string name="about_bug_feature_request_site">        Rapòrts d\'errors e demandas de foncionalitats :\n
-        https://github.com/tuskyapp/Tusky/issues
+        https://github.com/far-ahead/Fediverse/issues
     </string>
-    <string name="about_tusky_account">Perfil de Tusky</string>
+    <string name="about_tusky_account">Perfil de Gab</string>
     <string name="status_share_content">Partejar lo contengut del tut</string>
     <string name="status_share_link">Partejar lo ligam del tut</string>
     <string name="status_media_images">Imatges</string>
@@ -224,7 +224,7 @@
     <string name="replying_to">En responsa a @%s</string>
     <string name="load_more_placeholder_text">cargar mai</string>
     <string name="add_account_name">Apondre un compte</string>
-    <string name="add_account_description">Apondre un nòu compte Mastodon</string>
+    <string name="add_account_description">Apondre un nòu compte Gab</string>
     <string name="action_lists">Listas</string>
     <string name="title_lists">Listas</string>
     <string name="title_list_timeline">Flux de la lista</string>
@@ -250,18 +250,18 @@
     <string name="expand_collapse_all_statuses">Desplegar/Plegar totes los estatuts</string>
     <string name="action_open_toot">Dobrir lo tut</string>
     <string name="restart_required">Reaviada necessària</string>
-    <string name="restart_emoji">Vos caldrà reaviar Tusky per aplicar aquestes cambiaments</string>
+    <string name="restart_emoji">Vos caldrà reaviar Gab per aplicar aquestes cambiaments</string>
     <string name="later">Mai tard</string>
     <string name="restart">Reaviar</string>
     <string name="caption_systememoji">Los emoji per defaut de vòstre aparelh</string>
     <string name="caption_blobmoji">Emoji basats en Blob emojis coneguts d\'Android 4.4–7.1</string>
-    <string name="caption_twemoji">Emoji estandards de Mastodon</string>
+    <string name="caption_twemoji">Emoji estandards de Gab</string>
     <string name="download_failed">Fracàs del telecargament</string>
     <string name="profile_badge_bot_text">Robòt</string>
     <string name="account_moved_description">%1$s mudèt los catons a :</string>
     <string name="reblog_private">Partejar al public d’origina</string>
     <string name="unreblog_private">Quitar de partejar</string>
-    <string name="license_description">Tusky content de còdis e compausants dels projèctes liures seguents :</string>
+    <string name="license_description">Gab content de còdis e compausants dels projèctes liures seguents :</string>
     <string name="license_apache_2">Licéncia Apache License (còpia çai-jos)</string>
     <string name="profile_metadata_label">Metadonada del perfil</string>
     <string name="profile_metadata_add">Contengut</string>
@@ -309,7 +309,7 @@
     <string name="pref_default_media_sensitivity">Totjorn marcar los mèdias coma sensibles</string>
     <string name="pref_failed_to_sync">Fracàs de la sincronizacion dels paramètres</string>
 
-    <string name="about_tusky_version">Tusky %s</string>
+    <string name="about_tusky_version">Gab %s</string>
     <string name="abbreviated_days_ago">%dd</string>
     <string name="abbreviated_hours_ago">%dh</string>
     <string name="abbreviated_minutes_ago">%dm</string>

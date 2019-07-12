@@ -1,2 +1,2 @@
-package com.keylesspalace.tusky.di
+package com.gabai.gabby.di
 

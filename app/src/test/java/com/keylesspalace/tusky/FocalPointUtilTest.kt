@@ -13,9 +13,9 @@
  * You should have received a copy of the GNU General Public License along with Tusky; if not,
  * see <http://www.gnu.org/licenses>. */
 
-package com.keylesspalace.tusky
+package com.gabai.gabby
 
-import com.keylesspalace.tusky.util.FocalPointUtil
+import com.gabai.gabby.util.FocalPointUtil
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertTrue
 import org.junit.Assert.assertFalse

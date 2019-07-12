@@ -1,7 +1,7 @@
-package com.keylesspalace.tusky
+package com.gabai.gabby
 
 import android.text.Spannable
-import com.keylesspalace.tusky.util.highlightSpans
+import com.gabai.gabby.util.highlightSpans
 import org.junit.Assert
 import org.junit.Test
 import org.junit.runner.RunWith

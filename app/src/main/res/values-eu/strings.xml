@@ -120,10 +120,10 @@
     <string name="label_header">Goiburua</string>
     <string name="link_whats_an_instance">Zer da instantzia?</string>
     <string name="login_connection">Konektatzen…</string>
-    <string name="dialog_whats_an_instance"> Sartu hemen helbidea edo mastodon.eus, mastodon.jalgi.eus, mastodon.social bezalako <a href="https://instances.social">edozein instantzia</a>,
+    <string name="dialog_whats_an_instance"> Sartu hemen helbidea edo mastodon.eus, mastodon.jalgi.eus, gab.com bezalako <a href="https://instances.social">edozein instantzia</a>,
         \n\n Oraindik ez baduzu konturik, instantziaren izena sartu eta bertan kontua sortu dezakezu.
 \n\nInstantzia zure kontua dagoen gunea da, baino beste instantzietako erabiltzaileak zurean egongo balira bezala jarraitu ditzakezu.
-        \n\nInformazio gehiago <a href="https://joinmastodon.org">joinmastodon.org</a> helbidean topatuko duzu.
+        \n\nInformazio gehiago <a href="https://gab.com">gab.com</a> helbidean topatuko duzu.
     </string>
     <string name="dialog_title_finishing_media_upload">Multimedia igoera bukatzen</string>
     <string name="dialog_message_uploading_media">Igotzen…</string>
@@ -194,7 +194,7 @@
     <string name="notification_title_summary">%d interakzio berri</string>
     <string name="description_account_locked">Kontu babestua</string>
     <string name="about_title_activity">Honi buruz</string>
-    <string name="about_tusky_license">Tusky software libre eta kode askekoa da.
+    <string name="about_tusky_license">Gab software libre eta kode askekoa da.
         \"GNU General Public License Version 3\" lizentziapean zabaldua.
         Lizentzia hontaz gehiago irakurtzeko: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
     <!-- note to translators:
@@ -204,12 +204,12 @@
          * the url can be changed to link to the localized version of the license.
     -->
     <string name="about_project_site">        Proiektuaren gunea:\n
-        https://tusky.app
+        https://gab.com
     </string>
     <string name="about_bug_feature_request_site">        Akats jakinarazpenak eta hobekuntza eskariak:\n
-        https://github.com/tuskyapp/Tusky/issues
+        https://github.com/far-ahead/Fediverse/issues
     </string>
-    <string name="about_tusky_account">Tusky-ren profila</string>
+    <string name="about_tusky_account">Gab-ren profila</string>
     <string name="status_share_content">Partekatu edukia</string>
     <string name="status_share_link">Partekatu lotura</string>
     <string name="status_media_images">Irudiak</string>
@@ -230,7 +230,7 @@
     <string name="replying_to">\@%s-ri erantzuten</string>
     <string name="load_more_placeholder_text">Gehiago erakutsi</string>
     <string name="add_account_name">Gehitu kontua</string>
-    <string name="add_account_description">Mastodon kontua gehitu</string>
+    <string name="add_account_description">Gab kontua gehitu</string>
     <string name="action_lists">Zerrendak</string>
     <string name="title_lists">Zerrendak</string>
     <string name="title_list_timeline">Zerrenda denbora-lerroa</string>
@@ -262,13 +262,13 @@
     <string name="restart">Berrabiarazi</string>
     <string name="caption_systememoji">Zure gailuko defektuzko emojiak</string>
     <string name="caption_blobmoji">Android 4.4etik 7.1erako emoji-ak</string>
-    <string name="caption_twemoji">Mastodoneko emoji pakete estandarra</string>
+    <string name="caption_twemoji">Gabeko emoji pakete estandarra</string>
     <string name="download_failed">Deskargatzerakoan akatsa</string>
     <string name="profile_badge_bot_text">Bot-a</string>
     <string name="account_moved_description">%1$s hona mugitu da:</string>
     <string name="reblog_private">Berriz bultzatu</string>
     <string name="unreblog_private">Bultzatzea utzi</string>
-    <string name="license_description">Tusky-k ondorengo proiektuetako kode eta baliabideak ditu:</string>
+    <string name="license_description">Gab-k ondorengo proiektuetako kode eta baliabideak ditu:</string>
     <string name="license_apache_2">Apache Lizentziapean (testua zerrendaren azpian)</string>
     <string name="profile_metadata_label">Informazio gehigarria</string>
     <string name="profile_metadata_add">Eremua gehitu</string>

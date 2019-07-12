@@ -1,8 +1,8 @@
-package com.keylesspalace.tusky.util
+package com.gabai.gabby.util
 
 import android.app.Activity
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import com.keylesspalace.tusky.FakeTuskyApplication
+import com.gabai.gabby.FakeTuskyApplication
 import org.junit.Assert.assertFalse
 import org.junit.Assert.assertTrue
 import org.junit.Before

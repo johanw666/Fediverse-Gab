@@ -26,9 +26,9 @@
     <string name="title_public_federated">Globaal</string>
     <string name="title_direct_messages">Directe berichten</string>
     <string name="title_tab_preferences">Tabs</string>
-    <string name="title_view_thread">Toot</string>
+    <string name="title_view_thread">Post</string>
     <string name="title_tag">#%s</string>
-    <string name="title_statuses">Toots</string>
+    <string name="title_statuses">Posts</string>
     <string name="title_statuses_with_replies">Met reacties</string>
     <string name="title_statuses_pinned">Vastgezet</string>
     <string name="title_follows">Volgend</string>
@@ -75,8 +75,8 @@
     <string name="action_show_reblogs">Boosts tonen</string>
     <string name="action_report">Rapporteren</string>
     <string name="action_delete">Verwijderen</string>
-    <string name="action_send">TOOT</string>
-    <string name="action_send_public">TOOT!</string>
+    <string name="action_send">POST</string>
+    <string name="action_send_public">POST!</string>
     <string name="action_retry">Opnieuw proberen</string>
     <string name="action_close">Sluiten</string>
     <string name="action_view_profile">Profiel</string>
@@ -130,7 +130,7 @@
     <string name="confirmation_unmuted">Gebruiker wordt niet langer genegeerd</string>
     <string name="status_sent">Verzonden!</string>
     <string name="status_sent_long">Reactie succesvol verzonden.</string>
-    <string name="hint_domain">Welke Mastodonserver?</string>
+    <string name="hint_domain">Welke Gabserver?</string>
     <string name="hint_compose">Wat wil je kwijt?</string>
     <string name="hint_content_warning">Waarschuwingstekst</string>
     <string name="hint_display_name">Weergavenaam</string>
@@ -140,15 +140,15 @@
     <string name="label_quick_reply">Reageren…</string>
     <string name="label_avatar">Avatar</string>
     <string name="label_header">Omslagfoto</string>
-    <string name="link_whats_an_instance">Wat is een Mastodonserver?</string>
+    <string name="link_whats_an_instance">Wat is een Gabserver?</string>
     <string name="login_connection">Aan het verbinden…</string>
-    <string name="dialog_whats_an_instance">Het adres of domein van elke Mastodonserver kan hier worden ingevoerd, zoals mastodon.social, mastodon.nl, octodon.social en <a href="https://instances.social">nog veel meer!</a> 
+    <string name="dialog_whats_an_instance">Het adres of domein van elke Gabserver kan hier worden ingevoerd, zoals gab.com, mastodon.nl, octodon.social en <a href="https://instances.social">nog veel meer!</a> 
 \n 
-\nWanneer je nog geen account hebt, kun je de naam van de Mastodonserver waar jij je graag wil registeren invoeren, waarna je daar een account kunt aanmaken.
+\nWanneer je nog geen account hebt, kun je de naam van de Gabserver waar jij je graag wil registeren invoeren, waarna je daar een account kunt aanmaken.
 \n 
-\nEen Mastodonserver (Engels: instance) is een computerserver waar jouw account zich bevindt (vergelijk het met een e-mailserver). Je kan eenvoudig mensen van andere servers volgen en met ze communiceren, alsof jullie met elkaar op dezelfde website zitten. 
+\nEen Gabserver (Engels: instance) is een computerserver waar jouw account zich bevindt (vergelijk het met een e-mailserver). Je kan eenvoudig mensen van andere servers volgen en met ze communiceren, alsof jullie met elkaar op dezelfde website zitten. 
 \n 
-\n Meer informatie kun je vinden op <a href="https://joinmastodon.org">joinmastodon.org</a>.</string>
+\n Meer informatie kun je vinden op <a href="https://gab.com">gab.com</a>.</string>
     <string name="dialog_title_finishing_media_upload">Uploaden media bijna voltooid</string>
     <string name="dialog_message_uploading_media">Aan het uploaden…</string>
     <string name="dialog_download_image">Downloaden</string>
@@ -220,8 +220,8 @@
     <string name="notification_title_summary">%d nieuwe interacties</string>
     <string name="description_account_locked">Besloten account</string>
     <string name="about_title_activity">Over</string>
-    <string name="about_tusky_version">Tusky %s</string>
-    <string name="about_tusky_license">Tusky is opensource- en vrije software. De licentie valt onder de GNU Algemene Publieke Licentie versie 3. Je kunt de licentie hier bekijken: https://www.gnu.org/licenses/gpl-3.0.nl.html</string>
+    <string name="about_tusky_version">Gab %s</string>
+    <string name="about_tusky_license">Gab is opensource- en vrije software. De licentie valt onder de GNU Algemene Publieke Licentie versie 3. Je kunt de licentie hier bekijken: https://www.gnu.org/licenses/gpl-3.0.nl.html</string>
     <!-- note to translators:
          * you should think of “free” as in “free speech,” not as in “free beer”.
            We sometimes call it “libre software,” borrowing the French or Spanish word for “free” as in freedom,
@@ -229,10 +229,10 @@
          * the url can be changed to link to the localized version of the license.
     -->
     <string name="about_project_site">Projectwebsite:\n
-                    https://tusky.app</string>
+                    https://gab.com</string>
     <string name="about_bug_feature_request_site">Foutmeldingen &amp; nieuwe functies aanvragen:\n
-                    https://github.com/tuskyapp/Tusky/issues</string>
-    <string name="about_tusky_account">Tusky\'s profiel</string>
+                    https://github.com/far-ahead/Fediverse/issues</string>
+    <string name="about_tusky_account">Gab\'s profiel</string>
     <string name="status_share_content">Deel de inhoud van de toot</string>
     <string name="status_share_link">Deel de link van de toot</string>
     <string name="status_media_images">Afbeeldingen</string>
@@ -256,7 +256,7 @@
     <string name="replying_to">Aan het reageren op @%s</string>
     <string name="load_more_placeholder_text">meer laden</string>
     <string name="add_account_name">Account toevoegen</string>
-    <string name="add_account_description">Een nieuw Mastodonaccount toevoegen</string>
+    <string name="add_account_description">Een nieuw Gabaccount toevoegen</string>
     <string name="action_lists">Lijsten</string>
     <string name="title_lists">Lijsten</string>
     <string name="title_list_timeline">Tijdlijn lijst</string>
@@ -268,12 +268,12 @@
     <string name="lock_account_label">Account besloten maken</string>
     <string name="lock_account_label_description">Handmatige goedkeuring vereist voor volgers</string>
     <string name="compose_save_draft">Concept bewaren?</string>
-    <string name="send_toot_notification_title">Toot aan het verzenden…</string>
+    <string name="send_toot_notification_title">Post aan het verzenden…</string>
     <string name="send_toot_notification_error_title">Verzenden van toot mislukt</string>
-    <string name="send_toot_notification_channel_name">Toots aan het verzenden</string>
+    <string name="send_toot_notification_channel_name">Posts aan het verzenden</string>
     <string name="send_toot_notification_cancel_title">Verzenden geannuleerd</string>
     <string name="send_toot_notification_saved_content">Een kopie van de toot werd opgeslagen als concept</string>
-    <string name="action_compose_shortcut">Toot schrijven</string>
+    <string name="action_compose_shortcut">Post schrijven</string>
     <string name="error_no_custom_emojis">Jouw server %s heeft geen lokale emojis</string>
     <string name="copy_to_clipboard_success">Naar het klembord gekopieerd</string>
     <string name="emoji_style">Emojistijl</string>
@@ -281,20 +281,20 @@
     <string name="download_fonts">Je moet eerst deze emoji-sets downloaden</string>
     <string name="performing_lookup_title">Aan het zoeken…</string>
     <string name="expand_collapse_all_statuses">Alle toots in- of uitklappen</string>
-    <string name="action_open_toot">Toot openen</string>
+    <string name="action_open_toot">Post openen</string>
     <string name="restart_required">Herstarten app vereist</string>
-    <string name="restart_emoji">Je moet Tusky herstarten om deze veranderingen te kunnen doorvoeren</string>
+    <string name="restart_emoji">Je moet Gab herstarten om deze veranderingen te kunnen doorvoeren</string>
     <string name="later">Later</string>
     <string name="restart">Herstarten</string>
     <string name="caption_systememoji">Standaard emojiset van jouw apparaat</string>
     <string name="caption_blobmoji">De Blob-emojis van Android 4.4–7.1</string>
-    <string name="caption_twemoji">Standaard emojiset van Mastodon</string>
+    <string name="caption_twemoji">Standaard emojiset van Gab</string>
     <string name="download_failed">Downloaden mislukt</string>
     <string name="profile_badge_bot_text">Bot</string>
     <string name="account_moved_description">%1$s is verhuisd naar:</string>
     <string name="reblog_private">Boost naar oorspronkelijke ontvangers</string>
     <string name="unreblog_private">Niet langer boosten</string>
-    <string name="license_description">Tusky bevat broncode en onderdelen van de volgende opensourceprojecten:</string>
+    <string name="license_description">Gab bevat broncode en onderdelen van de volgende opensourceprojecten:</string>
     <string name="license_apache_2">Gelicenseerd onder de Apache-licentie (kopie hieronder)</string>
     <string name="license_cc_by_4">CC-BY 4.0</string>
     <string name="license_cc_by_sa_4">CC-BY-SA 4.0</string>
@@ -377,7 +377,7 @@
     <string name="notifications_apply_filter">Filter</string>
     <string name="filter_apply">Toepassen</string>
 
-    <string name="compose_shortcut_long_label">Toot schrijven</string>
+    <string name="compose_shortcut_long_label">Post schrijven</string>
     <string name="compose_shortcut_short_label">Schrijven</string>
     <string name="pref_title_bot_overlay">Botsindicator tonen</string>
 
