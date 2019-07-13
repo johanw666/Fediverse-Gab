@@ -75,7 +75,7 @@ public class OkHttpUtils {
         return chain -> {
             Request originalRequest = chain.request();
             Request requestWithUserAgent = originalRequest.newBuilder()
-                    .header("User-Agent", "Tusky/"+ BuildConfig.VERSION_NAME+" Android/"+Build.VERSION.RELEASE)
+                    .header("User-Agent", "Gabby/"+ BuildConfig.VERSION_NAME+" Android/"+Build.VERSION.RELEASE)
                     .build();
             return chain.proceed(requestWithUserAgent);
         };
